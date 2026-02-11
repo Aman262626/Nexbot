@@ -12,7 +12,7 @@ from datetime import datetime
 # --- CONFIGURATION (UPDATED FOR GROQ) ---
 TELEGRAM_BOT_TOKEN = "8243367314:AAE7G5-VQ70hAiqkuhcDtdGTpCuXhwmmmCY"
 TELEGRAM_CHAT_ID = "1529815801"
-DEVELOPER_NAME = "Anon"
+DEVELOPER_NAME = "Anonon"
 
 # --- GROQ API CONFIG ---
 # OpenRouter URL ko hatakar Groq URL dala gaya hai
